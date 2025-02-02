@@ -1,4 +1,5 @@
 SmartWater - Water Consumption Tracker 💧
+
 SmartWater is a C++ program designed to help individuals track their daily water consumption, compare it with sustainable benchmarks, and provide tips to reduce waste. This project supports SDG 6 (Clean Water & Sanitation) and SDG 12 (Responsible Consumption) by encouraging responsible water usage.
 
 Features
